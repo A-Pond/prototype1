@@ -1,0 +1,12 @@
+.container {
+    max-width: 300px;
+}
+
+.container img {
+    max-width: 300px;
+    max-height: 800px;
+}
+
+.body {
+    background-color: aquamarine;
+}
